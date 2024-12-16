@@ -1,4 +1,4 @@
-<h1>Hiya :) I'm Aspa <br/><a href="https://github.com/joshmadakor1">Data Scientist</a>
+<h1>Hiya :) I'm Aspa <br/><a href="https://github.com/joshmadakor1">Data Science Student ;)</a>
 
 <h2>👨‍💻 Coding Development & Data Projects</h2>
 - <b>Data Structures and Algorithms Practice (AlgoExpert)
